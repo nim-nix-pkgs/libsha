@@ -11,7 +11,6 @@
   inputs.src-libsha-master.ref   = "refs/heads/master";
   inputs.src-libsha-master.owner = "forlan-ua";
   inputs.src-libsha-master.repo  = "nim-libsha";
-  inputs.src-libsha-master.dir   = "";
   inputs.src-libsha-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

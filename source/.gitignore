@@ -1,0 +1,5 @@
+nimcache/
+libsha.run
+!libsha/
+*.exe
+build
